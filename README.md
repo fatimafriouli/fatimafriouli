@@ -2,8 +2,8 @@
 ### 🎓 PhD Student in Medical Physics | Radiation Protection & Hadron Therapy Researcher
 
 Welcome to my GitHub profile!  
-I am a **PhD student in Medical Physics**, focusing on **radiation protection**, **particle-matter interactions**, and **hadron therapy**, particularly using **helium ion beams**.  
-My research combines **Monte Carlo simulations**, **dosimetry**, and **radiobiology** to optimize cancer treatment accuracy.
+I am a PhD student in Medical Physics, with interests in radiation protection, particle-matter interactions, and hadron therapy.
+My work involves Monte Carlo simulations, dosimetry, and radiobiology to advance safe and precise medical applications.
 
 ---
 
@@ -31,7 +31,7 @@ My research combines **Monte Carlo simulations**, **dosimetry**, and **radiobiol
 ## 📫 Contact
 
 💼 **LinkedIn:** (linkedin.com/in/fatima-friouli-24a32a248‏)  
-📧 **Email:** (friouli.isss@uhp.ac.ma)  
+📧 **Email:** (fatimafriouli21@gmail.com)  
 📍 Morocco  
 
 ---
