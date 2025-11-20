@@ -30,7 +30,7 @@ My research combines **Monte Carlo simulations**, **dosimetry**, and **radiobiol
  
 ## 📫 Contact
 
-💼 **LinkedIn:** (Fatima Friouli)  
+💼 **LinkedIn:** (linkedin.com/in/fatima-friouli-24a32a248‏)  
 📧 **Email:** (friouli.isss@uhp.ac.ma)  
 📍 Morocco  
 
