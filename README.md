@@ -7,15 +7,6 @@ My research combines **Monte Carlo simulations**, **dosimetry**, and **radiobiol
 
 ---
 
-## 🚀 About Me
-
-- 🎓 PhD in Medical Physics (Radiation Protection & Hadron Therapy)  
-- 🔬 Research focus: **Helium ion therapy**, **Monte Carlo simulation (FLUKA)**  
-- 🧪 Working on **Bragg peak characterization**, **lateral scattering**, and **dose distribution optimization**   
-- 🌍 Based in **Morocco**
-
----
-
 ## 🧰 Technical Skills
 
 ### **Simulation & Modeling**
@@ -25,7 +16,7 @@ My research combines **Monte Carlo simulations**, **dosimetry**, and **radiobiol
 - Flair / GeoFlair  
 
 ### **Programming & Tools**
-- Python   
+- c++   
 - Linux  
 - LaTeX (scientific writing)
 
